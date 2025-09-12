@@ -19,20 +19,20 @@ Dedicated and quick-learning **Desktop Support Engineer** with **1.9 years of pr
 - IT asset management and documentation  
 
 **Operating Systems & Software**
-- Windows 7/8/10/11 installation and configuration  
+- Windows 8/10/11 installation and configuration and MAC besic
 - Software and driver installation  
-- Microsoft Office & Microsoft 365 administration  
+- Microsoft Office & Microsoft 365 support  
 - Antivirus, endpoint security, and patch management  
 
 **Networking & Connectivity**
 - LAN/WAN setup, IP configuration, LAN card crimping  
 - Router & switch configuration  
-- VPN setup and troubleshooting (SSL VPN, IPSec VPN)  
+- VPN setup and troubleshooting  
 - Network printer setup and drive sharing  
 
 **Email & Collaboration Tools**
 - Outlook configuration and troubleshooting  
-- Microsoft 365 (Teams, OneDrive, SharePoint)  
+- Microsoft 365 (Excel,Teams, OneDrive, SharePoint)  
 - Video conferencing setup (Zoom, MS Teams, Cisco Webex)  
 
 **Server & Directory Services**
@@ -42,18 +42,15 @@ Dedicated and quick-learning **Desktop Support Engineer** with **1.9 years of pr
 
 **Support & Service Delivery**
 - L1/L2 end-user support (desktops, laptops, printers, networks)  
-- Remote support via RDP, AnyDesk, TeamViewer, Citrix  
-- Ticketing tools: ServiceNow, Freshdesk, JIRA  
+- Remote support via RDP, AnyDesk, TeamViewer, VNC, Quick Assist  
+- Ticketing tools: ServiceNow, Freshdesk, Edesk  
 - SLA-driven troubleshooting and escalation  
 
 **Additional Skills**
 - Commvault backup and restore operations  
-- Virtualization basics (VMware, Hyper-V)  
-- Google Workspace administration  
-- Cloud storage & backup solutions  
-- Mobile device configuration (Android/iOS)  
-- ITIL fundamentals  
-
+- Virtualization basics (VMware, Hyper-V)     
+- Mobile device configuration (Android/iOS)
+- VC configuration
 ---
 
 ## 💼 Professional Experience
