@@ -1,6 +1,6 @@
-# 💻 Akash Maurya — Desktop Support Engineer
+# 💻 Akash Maurya — Mac Support Engineer
 
-**Desktop Support Engineer | IT Infrastructure & Remote Support Specialist**  
+**Mac Support Engineer | IT Infrastructure & Remote Support Specialist**  
 📍 Mumbai, India | ✉️ [akashmaurya556099@gmail.com](mailto:akashmaurya556099@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/akashmauryaam)
 
 ---
